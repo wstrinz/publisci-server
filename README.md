@@ -1,6 +1,6 @@
 # Publisci::Server
 
-TODO: Write a gem description
+A Sinatra server for setting up RDF Repositories and interacting with them. Fully content negotiated and cross domain.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run the gem executable `publisci-server` and access it by browsing to http://localhost:4567/
 
 ## Contributing
 
