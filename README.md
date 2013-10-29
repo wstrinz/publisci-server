@@ -20,6 +20,18 @@ Or install it yourself as:
 
 Run the gem executable `publisci-server` and access it by browsing to http://localhost:4567/
 
+Server features
+  * Import Turtle, N3, and RDF/XML
+  * Export in all [RDF.rb](http://ruby-rdf.github.io/) compatible serialization formats
+  * Query using SPARQL
+  * Access PubliSci DSL
+
+Supported Repository Types
+  * [In Memory](http://rdf.rubyforge.org/RDF/Repository.html)
+  * [4store](https://github.com/fumi/rdf-4store)
+   
+
+
 ## Contributing
 
 1. Fork it
